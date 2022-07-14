@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+.about{
+    width: 100%;
+    padding: 78px 0px;
+    background-color: teal;
+}
+.about img{
+    height: auto;
+    width: 420px;
+}
+.about-me-text{
+    width: 550px;
+}
+.main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.about-me-text h1{
+    color: whitesmoke;
+    font-size: medium;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+.about-me-text h3{
+    color: whitesmoke;
+    font-size: medium;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+.about-me-text h6{
+    color: whitesmoke;
+    font-size: medium;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+.about-me-text p{
+    color: whitesmoke;
+    letter-spacing: 1px;
+    line-height: normal;
+    font-size: medium;
+}
